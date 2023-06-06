@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nishaanthzz
 - 👀 I’m interested in coding and writing
-- 🌱 I’m currently learning Android Studio Development
-- 💞️ I’m looking to collaborate on Android App development
+
 
 
 <!---
